@@ -4,5 +4,5 @@ PROGRAMACIÓN DE PROYECTOS DE CONSTRUCCIÓN DE EDIFICACIONES MEDIANTE ALGORITMOS
 realizado en c++11
 
 * se utiliza gnuplot para graficar los datos obtenidos : 
--$ gnuplot < script.plt 
--$ display output.png
+* $ gnuplot < script.plt 
+* $ display output.png
